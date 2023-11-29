@@ -11,6 +11,10 @@ h2{
 li{
 	list-style-type:none;
 }
+
+a{
+	text-decoration-line:none;
+}
 list{
 	background-color:rgb(255,255,255);
 }
