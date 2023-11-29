@@ -18,6 +18,14 @@ a{
 list{
 	background-color:rgb(255,255,255);
 }
+
+.music{
+	background-color:rgb(255,255,255);
+	padding-top:2px;
+	padding-bottom:2px;
+	border-radius:5px;
+	border: 2px solid black;
+}
 .player_one{
 	background-color:rgb(255,255,255);
 	padding:10px;
@@ -25,11 +33,4 @@ list{
 	display:flex;
 	justify-content:center;
 }
-.player_two{
-	background-color:rgb(255,255,255);
-	padding:10px;
-	border-radius:5px;
-	display:flex;
-	justify-content:center;
-	
-}
+
